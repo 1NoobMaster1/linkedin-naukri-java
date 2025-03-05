@@ -1,0 +1,4 @@
+- Code Practice | From Codes which I READ, !READ & which I did not do.
+1. Codes/Programs before any Interview Call.
+2. Codes/Programs with Green Tick: I have READ them.
+3. Codes/Programs with Red Cross: I have not READ them.

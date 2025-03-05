@@ -1,0 +1,68 @@
+// Access Modifier: public.
+// Codes/Programs might vary.
+1. 1-D Arrays: Completed!
+2. 2-D Arrays: Completed!
+3. OOPS: Completed!
+4. Anonymous Class: A obj; obj = () -> { System.out.println("Lambda Expression!") } : Completed!
+5. Anonymous Object: Completed!
+6. ArrayList: Completed!
+7. Binary Search: Not to do!
+8. Bit Manipulation: Not to do!
+9. Bubble Sort/Bubble Sort & Summation: Completed!
+10. Call by Reference & Call by Value: Completed!
+11. Classes & Objects/Encapsulation: Completed!
+12. Collections' A.P.Is: ArrayList: Completed!
+13. CommonElementInAnArray: Not to do!
+14. Comparable & Comparator. compareTo() & compare(), Interface & Interface & They are used for sorting the collection of objects: Completed!
+15. Concatenation: Completed!
+16. Constructors: Completed!
+17. Default, Interface & Method Overriding Example - 2/Polymorphism: Completed!
+18. Do While Loop: Completed!
+19. Encapsulation: Completed!
+20. EvenOddSubtraction: Completed!
+21. Factorial & Recursion: Completed!
+22. Fanny's Occurrences: Completed!
+23. Fibonacci Series: Completed!
+24. Functions: void sqr(void), int factorial(int): Completed!, void swap(int, int) & int add(void).
+25. Inheritance: Completed!
+26. Input Of A String By An Array: Completed!
+27. Java 8's Features: Completed!
+28. Lambda Expression: Completed!
+29. Lambda Expression: Anonymous Class/Object: Read It : Read Only & I have Read It: Completed!
+30. Lambda Expression: Sort the Elements: Completed!
+31. Leap Year: Completed!
+32. Method Overloading: Completed!
+33. Multi-threading: Completed!
+34. Numbers’ Program: Completed!
+35. Operators: Read It : Read Only & I have Read it.
+36. Palindrome Number & Palindrome String: Completed!
+37. Password(s): Read It : Read Only & I have Read it.
+38. Prime Number: Completed!
+
+39. Reverse: Array, ArrayList, Number & String: Without Method: Completed!
+40. Sort: Array: Without Method: Completed!
+
+41. Split the Strings: Completed!
+42. Spy Number: Completed!
+43. Stars’ Program: Completed!
+44. Stream A.P.I: Completed!.
+45. Sum of a Number: Completed!
+46. Sum of an Array: Completed!
+47. Thread: Completed!
+
+// Java-based Interview Questions:
+1. Actuators: Application Monitoring: Beans, Health, Loggers & Status: Completed!
+2. @Bean Life Cycle: public void init() & public void destroy(). 1. Set Object, 2. Set Value, 3. init() & 4. destroy(): Completed!
+3. Four Pillars of Java/OOPS: Abstraction, Encapsulation, Inheritance/Interface & Polymorphism: Completed!
+4. Lambda Expressions: A obj; obj = () -> { System.out.println("Lambda Expressions!"); }: Completed!
+5. Multiple Inheritance: Interface: Completed!
+6. Polymorphism: Method Overloading & Method Overriding: Completed!
+7. Second-Highest Salary: stream(): Completed!
+
+1. Collections: ArrayList: Completed!
+2. Duplicate Elements(s) by using Streams: Completed!
+3. Demon Thread: Garbage Collector: Completed!
+4. Factorial & OOPS: Completed!
+5. Grafana & Prometheus: Disk Usage & Monitoring Memory: Completed!
+6. Duplicate Element, Minimum Number & Maximum Number by using Streams: Completed!
+7. Singleton Class: Allows one instance to be created: Completed!
